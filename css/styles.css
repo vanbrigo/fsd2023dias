@@ -1,0 +1,37 @@
+body{
+
+    margin:0;
+    padding:0;
+
+}
+
+.container-fluid {
+    background-color: black;
+    height: 100vh;
+}
+
+#soy1 {
+    background-color: aqua;
+}
+
+#soy2 {
+    background-color: blue;
+}
+
+#soy3 {
+    background-color: darkblue;
+}
+
+.soymitad2 {
+    background-color: orange;
+}
+
+/* .soymitad1 {
+    background-color: aqua; */
+/* } */
+
+.soysegundamitad2 {
+    background-color: darkgreen;
+}
+
+
